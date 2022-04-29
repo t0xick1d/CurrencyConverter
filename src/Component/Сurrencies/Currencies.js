@@ -21,7 +21,7 @@ const Currencies = ({eur, btc, usd}) => {
                         <div>{usd.sale}</div>
                     </div>
                     <div className='grid_euro'>  
-                        <div>EURO</div>
+                        <div>EUR</div>
                         <div>{eur.buy}</div>
                         <div>{eur.sale}</div>
                     </div>
